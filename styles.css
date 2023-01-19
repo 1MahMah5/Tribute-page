@@ -1,0 +1,60 @@
+#main{
+  background-color:#ede9e3;
+  border-radius:20px;
+}
+
+#title {
+  text-align: center;
+  font-family:Times New Roman,Georgia;
+}
+
+p{
+  text-align: center;
+  font-family:Times New Roman,Georgia;
+}
+
+#img-div{
+  display: flex;
+  flex-direction:column;
+  align-items:center;
+  background-color:#efe9d9;
+  border-radius:10px;
+}
+
+#image{
+  border-radius:10px;
+  margin:auto;
+  max-width:100%;
+  height:auto;
+}
+
+#img-caption{
+  font-family:Times New Roman,Georgia;
+  margin:10px auto 10px auto;
+}
+
+#tribute-info{
+  font-family:Times New Roman,Georgia;
+}
+
+h3{
+  text-align:center;
+  font-family:Times New Roman,Georgia;
+}
+
+#list{
+  margin-left:30%;
+  padding-right:500px;
+}
+
+li{
+  margin-top:8px ;
+}
+
+#tribute-link{
+  color:#2a1cc4;
+}
+
+#tribute-link:hover{
+  color:#29729f;
+}
